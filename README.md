@@ -4,5 +4,5 @@
 - 🌐 I like the Internet very much.
 - 📦 I share Internet resources through GitHub.
 
-# about
+# About me
 about some of my things, a magician.
